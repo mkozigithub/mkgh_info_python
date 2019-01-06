@@ -8,12 +8,12 @@
 * Pluralsight: Python: Getting Started: [course](https://app.pluralsight.com/library/courses/python-getting-started/table-of-contents)
 * Pluralsight: Python: Fundamentals: [course](https://app.pluralsight.com/library/courses/python-fundamentals/table-of-contents)
 * Pluralsight: Python: Beyond the Basics: [course](https://app.pluralsight.com/library/courses/python-beyond-basics/table-of-contents)
+* Pluralsight: Cleaning Data: Python Data Playbook: [course](https://app.pluralsight.com/library/courses/cleaning-data-python-data-playbook/table-of-contents)
+* Pluralsight: Importing Data: Python Data Playbook: [course](https://app.pluralsight.com/library/courses/python-importing-data-playbook/table-of-contents)
 * DataCamp: Intro to Python for Data Science: [course](https://campus.datacamp.com/courses/intro-to-python-for-data-science)
 * DataCamp: Inermediate Python for Data Science: [course](https://campus.datacamp.com/courses/intermediate-python-for-data-science)
 * DataCamp: Python Data Science Toolbox Part 1: [course](https://campus.datacamp.com/courses/python-data-science-toolbox-part-1)
 * DataCamp: Python Data Science Toolbox Part 2: [course](https://campus.datacamp.com/courses/python-data-science-toolbox-part-2)
-* Pluralsight: Cleaning Data: Python Data Playbook: [course](https://app.pluralsight.com/library/courses/cleaning-data-python-data-playbook/table-of-contents)
-* Pluralsight: Importing Data: Python Data Playbook: [course](https://app.pluralsight.com/library/courses/python-importing-data-playbook/table-of-contents)
 
 ## Resources
 
@@ -24,15 +24,15 @@
   * Conda: [docs](https://conda.io/docs/index.html)
   * Install help \(path\): [link](https://www.datacamp.com/community/tutorials/installing-anaconda-windows)
 * [Python](https://www.python.org/):
+  * Python Enhancement Proposals: [peps​](https://www.python.org/dev/peps/)
   * Python editor: [PyCharm](https://www.jetbrains.com/pycharm/)
   * Python package Index: [PyPI](https://pypi.org/)
   * Python Packaging User Guild: [site](https://packaging.python.org/)
   * Google Python Style Guide: [guide](https://github.com/google/styleguide/blob/gh-pages/pyguide.md)
   * pyvev / venv:
+    * as of Python 3.6, pyvenv has been depreciated, use: `python -m venv path/environment`
     * [How to manage multiple Python versions and virtual environments](https://medium.freecodecamp.org/manage-multiple-python-versions-and-virtual-environments-venv-pyenv-pyvenv-a29fb00c296f)
-    * python docs:
-      * \`\`[`venv` — Creation of virtual environments](https://docs.python.org/3/library/venv.html#module-venv)
-      * [Virtual Environments and Packages](https://docs.python.org/3/tutorial/venv.html#virtual-environments-and-packages)
+    * venv — Creation of virtual environments: [python doc](https://docs.python.org/3/library/venv.html#module-venv) | [python tutorial](https://docs.python.org/3/tutorial/venv.html#virtual-environments-and-packages)
   * O'Reilly - Python Data Science Handbook: [book](https://jakevdp.github.io/PythonDataScienceHandbook/) \| [jupyter notebooks](https://notebooks.azure.com/jakevdp/projects/PythonDataScienceHandbook)
   * Data Packages:
     * Numpy: [site ](http://www.numpy.org/)\| [pypi ](https://pypi.org/project/numpy/)\| [github](https://github.com/numpy/numpy)

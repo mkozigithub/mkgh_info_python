@@ -29,7 +29,18 @@ Python environments can be created to provide an isolated installation of python
     ```
     > deactivate
     ```
-    
+## Install Python packages using Conda
+Anaconda is installed with a python package manager called 'conda'.  This package manager is used to add additional functionality to a python environment.  For exameple, to add numpy to the activated 'training' environment, run the following in a terminal:   
+    ```
+    > conda install numpy
+    ```   
+
+## Install Python packages using pip
+Sometimes a package will not be available via conda, so another option is to use [pip](https://pip.pypa.io/en/stable/).  For example, to add numpy to the activated 'training' environment, run the following:
+    ```
+    > pip install numpy
+    ```
+
 ## Run Jupyter Notebooks Locally
 Jupyter notebook provides an interactive way to run python code along with providing a way to document the code using markup.  Jupyter notebook functionality is provided using the juptyer python package.  After installation, jupyter notebook can be run from any directory.  Here are the steps involved:
 
@@ -48,4 +59,4 @@ Jupyter notebook provides an interactive way to run python code along with provi
 ## Run Jupyter Notebooks on Remote Host
 There are services that will remotely host jupyter notebooks:
 * Microsoft Azure Notebook: [site](https://notebooks.azure.com/) | [sample library](https://notebooks.azure.com/Microsoft/projects)
-* Anaconda Cloud: [site](https://anaconda.org/)
+* Anaconda Cloud: [site](https://anaconda.org/)s
