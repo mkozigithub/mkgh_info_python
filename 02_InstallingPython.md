@@ -35,6 +35,8 @@ Anaconda is installed with a python package manager called 'conda'.  This packag
     > conda install numpy
     ```   
 
+> Note: if receiving a SSL error during conda install, try this: `conda config --set ssl_verify false `
+
 ## Install Python packages using pip
 Sometimes a package will not be available via conda, so another option is to use [pip](https://pip.pypa.io/en/stable/).  For example, to add numpy to the activated 'training' environment, run the following:
     ```
