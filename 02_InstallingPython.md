@@ -9,7 +9,7 @@ There are multiple ways to set-up a python environment, one of the easiest is to
     ```  
     
 ## Optionally - Setup Python Environment
-Python environments can be created to provide an isolated installation of python and installed packages.  For example, if applications in different versions of python need to be supported, seperate environments can be set-up containing different versions of python (along with different groups of installed packages within each environment).  Here are the steps to create a new environment:
+Python environments can be created to provide an isolated installation of python and installed packages (see conda '[Managing Environment](https://conda.io/docs/user-guide/tasks/manage-environments.html)').  For example, if applications in different versions of python need to be supported, seperate environments can be set-up containing different versions of python (along with different groups of installed packages within each environment).  Here are the steps to create a new environment:
 
 1. Open terminal windows
 2. If interested, review the conda create command:
