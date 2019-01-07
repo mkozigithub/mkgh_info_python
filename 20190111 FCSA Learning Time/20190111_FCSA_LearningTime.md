@@ -3,7 +3,6 @@
 1. Demo of data science packages 
     * Installing python ([anaconda](https://www.anaconda.com/))
     * Creating python environment ([conda 'Manage Environments'](https://conda.io/docs/user-guide/tasks/manage-environments.html))
-        * 02-Udemy Finance Project
     * What can python do:
         * REPL
         * Running program
