@@ -11,15 +11,18 @@
             * 02-Udemy Finance Project
             * Notebooks/TrainingTime/Cleaning Data - Python Data Playbook
             * Notebooks/TrainingTime/Importing Data - Python Data Playbook
-        * [Azure Notebooks](https://notebooks.azure.com/)
+        * [Azure Notebooks](https://notebooks.azure.com/): see "Featured Projects"
         * Azure Functions: [blog](https://azure.microsoft.com/en-us/blog/taking-a-closer-look-at-python-support-for-azure-functions/)
 3. [Python](https://www.python.org/) language overview:
+    * Python [documentation](https://docs.python.org/3/index.html)
     * Python [tutorial](https://docs.python.org/3/tutorial/index.html)
         * basic operators: [link](https://www.tutorialspoint.com/python/python_basic_operators.htm)
+    * Python Standard Library: [site](https://docs.python.org/3/library/index.html)
+    * Python Package Index: [pip](https://pypi.org/)
 4. Data science python packages  
-    1. Numpy: [site](http://www.numpy.org/)
-    2. Pandas: [site](https://pandas.pydata.org/) | [tutorials](http://pandas.pydata.org/pandas-docs/version/0.15/tutorials.html)
-    3. Matplotlib: [site](https://matplotlib.org/)  
+    1. Numpy: [site](http://www.numpy.org/) | [SciPy docs](https://docs.scipy.org/doc/) | [functions by category](https://docs.scipy.org/doc/numpy/reference/routines.html)
+    2. Pandas: [site](https://pandas.pydata.org/) | [docs](http://pandas.pydata.org/pandas-docs/stable/) | [tutorials](http://pandas.pydata.org/pandas-docs/version/0.15/tutorials.html)
+    3. Matplotlib: [site](https://matplotlib.org/)  | [User Guide](https://matplotlib.org/users/index.html)
     4. Seaborn: [site](https://seaborn.pydata.org/)
     5. Plotly: [site](https://plot.ly/python/)
         * cufflinks: [site](https://plot.ly/ipython-notebooks/cufflinks/)  
