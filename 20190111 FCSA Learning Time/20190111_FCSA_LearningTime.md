@@ -14,8 +14,7 @@
         * [Azure Notebooks](https://notebooks.azure.com/): see "Featured Projects"
         * Azure Functions: [blog](https://azure.microsoft.com/en-us/blog/taking-a-closer-look-at-python-support-for-azure-functions/)
 3. [Python](https://www.python.org/) language overview:
-    * Python [documentation](https://docs.python.org/3/index.html)
-    * Python [tutorial](https://docs.python.org/3/tutorial/index.html)
+    * Python [documentation](https://docs.python.org/3/index.html) | [tutorial](https://docs.python.org/3/tutorial/index.html) | [PEP](https://www.python.org/dev/peps/)
         * basic operators: [link](https://www.tutorialspoint.com/python/python_basic_operators.htm)
     * Python Standard Library: [site](https://docs.python.org/3/library/index.html)
     * Python Package Index: [pip](https://pypi.org/)
