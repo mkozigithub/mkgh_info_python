@@ -45,3 +45,7 @@
     * Coursera: Machine Learning: [course](https://www.coursera.org/learn/machine-learning/home/welcome)
     * Udemy: Python for Data Science and Machine Learning Bootcamp: [course](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp)
     * An Introduction to Statistical Learning: [site](http://www-bcf.usc.edu/~gareth/ISL/) \| [book](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Seventh%20Printing.pdf)
+6. Interesting features of python:
+    1. Comporehensions: [tutorial](https://docs.python.org/3/tutorial/datastructures.html#list-comprehensions)
+    2. Generators: [1](http://book.pythontips.com/en/latest/generators.html) | [2](https://docs.python.org/3/tutorial/classes.html#generators)
+    3. 

@@ -1,0 +1,13 @@
+{
+  "python.pythonPath": "C:\\Users\\mkozi\\Anaconda3\\python.exe",
+  "python.unitTest.unittestArgs": [
+    "-v",
+    "-s",
+    "./09_implementing_collections",
+    "-p",
+    "test_*.py"
+  ],
+  "python.unitTest.pyTestEnabled": false,
+  "python.unitTest.nosetestsEnabled": false,
+  "python.unitTest.unittestEnabled": true
+}
