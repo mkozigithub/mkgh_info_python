@@ -21,7 +21,7 @@
 4. Data science python packages  
     1. Numpy: [site](http://www.numpy.org/) | [SciPy docs](https://docs.scipy.org/doc/) | [functions by category](https://docs.scipy.org/doc/numpy/reference/routines.html) | [advanced indexing](https://docs.scipy.org/doc/numpy/user/quickstart.html#fancy-indexing-and-index-tricks)
     2. Pandas: [site](https://pandas.pydata.org/) | [docs](http://pandas.pydata.org/pandas-docs/stable/) | [tutorials](http://pandas.pydata.org/pandas-docs/version/0.15/tutorials.html) | [10 minutes to pandas](http://pandas.pydata.org/pandas-docs/version/0.15/10min.html)
-    3. Matplotlib: [site](https://matplotlib.org/)  | [User Guide](https://matplotlib.org/users/index.html)
+    3. Matplotlib: [site](https://matplotlib.org/)  | [User Guide](https://matplotlib.org/users/index.html) | [math](https://matplotlib.org/gallery/text_labels_and_annotations/tex_demo.html)
     4. Seaborn: [site](https://seaborn.pydata.org/)
     5. Plotly: [site](https://plot.ly/python/)
         * cufflinks: [site](https://plot.ly/ipython-notebooks/cufflinks/)  
