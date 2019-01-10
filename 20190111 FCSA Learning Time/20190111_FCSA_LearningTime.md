@@ -5,7 +5,7 @@
     * Creating python environment ([conda 'Manage Environments'](https://conda.io/docs/user-guide/tasks/manage-environments.html))
     * What can python do:
         * REPL
-        * Running program
+        * Running program: [vs code](https://code.visualstudio.com/docs/python/python-tutorial)
         * [Jupyter Notebook](http://jupyter.org/)
             * 01-Udemy 911 Calls Data
             * 02-Udemy Finance Project
@@ -20,8 +20,8 @@
     * Python Standard Library: [site](https://docs.python.org/3/library/index.html)
     * Python Package Index: [pip](https://pypi.org/)
 4. Data science python packages  
-    1. Numpy: [site](http://www.numpy.org/) | [SciPy docs](https://docs.scipy.org/doc/) | [functions by category](https://docs.scipy.org/doc/numpy/reference/routines.html)
-    2. Pandas: [site](https://pandas.pydata.org/) | [docs](http://pandas.pydata.org/pandas-docs/stable/) | [tutorials](http://pandas.pydata.org/pandas-docs/version/0.15/tutorials.html)
+    1. Numpy: [site](http://www.numpy.org/) | [SciPy docs](https://docs.scipy.org/doc/) | [functions by category](https://docs.scipy.org/doc/numpy/reference/routines.html) | [advanced indexing](https://docs.scipy.org/doc/numpy/user/quickstart.html#fancy-indexing-and-index-tricks)
+    2. Pandas: [site](https://pandas.pydata.org/) | [docs](http://pandas.pydata.org/pandas-docs/stable/) | [tutorials](http://pandas.pydata.org/pandas-docs/version/0.15/tutorials.html) | [10 minutes to pandas](http://pandas.pydata.org/pandas-docs/version/0.15/10min.html)
     3. Matplotlib: [site](https://matplotlib.org/)  | [User Guide](https://matplotlib.org/users/index.html)
     4. Seaborn: [site](https://seaborn.pydata.org/)
     5. Plotly: [site](https://plot.ly/python/)
