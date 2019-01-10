@@ -11,6 +11,7 @@
             * 02-Udemy Finance Project
             * Notebooks/TrainingTime/Cleaning Data - Python Data Playbook
             * Notebooks/TrainingTime/Importing Data - Python Data Playbook
+            * [MathJax](https://www.mathjax.org/) - symbol cheatsheets: [1](https://www.math.brown.edu/~jhs/ReferenceCards/TeXRefCard.v1.5.pdf) | [2](http://tug.ctan.org/info/undergradmath/undergradmath.pdf) | [3](http://web.ift.uib.no/Teori/KURS/WRK/TeX/symALL.html) - examples: [1](https://nbviewer.jupyter.org/github/ipython/ipython/blob/2.x/examples/Notebook/Display%20System.ipynb#LaTeX)
         * [Azure Notebooks](https://notebooks.azure.com/): see "Featured Projects"
         * Azure Functions: [blog](https://azure.microsoft.com/en-us/blog/taking-a-closer-look-at-python-support-for-azure-functions/)
 3. [Python](https://www.python.org/) language overview:
