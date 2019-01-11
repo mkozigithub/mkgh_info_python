@@ -111,6 +111,6 @@ if __name__ == "__main__":
     from collections.abc import *
     print(issubclass(list, Sequence))
     print(issubclass(list, Sized))
-    print(issubclass(dict, Mapping));
-    print(issubclass(dict, Sized));
-    print(issubclass(dict, Iterable));
+    print(issubclass(dict, Mapping))
+    print(issubclass(dict, Sized))
+    print(issubclass(dict, Iterable))
