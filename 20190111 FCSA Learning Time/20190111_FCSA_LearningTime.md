@@ -4,8 +4,8 @@
     * Installing python ([anaconda](https://www.anaconda.com/))
     * Creating python environment ([conda 'Manage Environments'](https://conda.io/docs/user-guide/tasks/manage-environments.html))
     * What can python do:
-        * REPL
-        * Running program: [vs code](https://code.visualstudio.com/docs/python/python-tutorial)
+        * Run code with REPL
+        * Run code from .py file: [vs code](https://code.visualstudio.com/docs/python/python-tutorial)
         * [Jupyter Notebook](http://jupyter.org/)
             * 01-Udemy 911 Calls Data
             * 02-Udemy Finance Project
@@ -35,7 +35,7 @@
     * Pluralsight: Cleaning Data: Python Data Playbook: [course](https://app.pluralsight.com/library/courses/cleaning-data-python-data-playbook/table-of-contents)
     * Pluralsight: Importing Data: Python Data Playbook: [course](https://app.pluralsight.com/library/courses/python-importing-data-playbook/table-of-contents)  
 
-    [DataCamp](https://www.datacamp.com/) (available through [msdn](https://msdn.microsoft.com/en-us/dn308572.aspx)):
+    [__DataCamp__](https://www.datacamp.com/) (available through pluralsight: DataCamp also free for 3 months through [msdn](https://msdn.microsoft.com/en-us/dn308572.aspx)):
     * DataCamp: Intro to Python for Data Science: [course](https://campus.datacamp.com/courses/intro-to-python-for-data-science)
     * DataCamp: Inermediate Python for Data Science: [course](https://campus.datacamp.com/courses/intermediate-python-for-data-science)
     * DataCamp: Python Data Science Toolbox Part 1: [course](https://campus.datacamp.com/courses/python-data-science-toolbox-part-1)
