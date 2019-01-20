@@ -13,7 +13,7 @@
             * Notebooks/TrainingTime/Importing Data - Python Data Playbook
             * [MathJax](https://www.mathjax.org/) - symbol cheatsheets: [1](https://www.math.brown.edu/~jhs/ReferenceCards/TeXRefCard.v1.5.pdf) | [2](http://tug.ctan.org/info/undergradmath/undergradmath.pdf) | [3](http://web.ift.uib.no/Teori/KURS/WRK/TeX/symALL.html) - examples: [1](https://nbviewer.jupyter.org/github/ipython/ipython/blob/2.x/examples/Notebook/Display%20System.ipynb#LaTeX)
                 * Jupyter [motivating examples](https://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/Typesetting%20Equations.html)
-                * Introduction to Statistical Learning.ipynb
+                * Notebooks\TrainingTime\Introduction to Statistical Learning.ipynb
         * [Azure Notebooks](https://notebooks.azure.com/): see "Featured Projects"
         * Azure Functions: [blog](https://azure.microsoft.com/en-us/blog/taking-a-closer-look-at-python-support-for-azure-functions/)
         * PyTorch on Windows: [msdn magazine](https://msdn.microsoft.com/en-us/magazine/mt848704.aspx)
