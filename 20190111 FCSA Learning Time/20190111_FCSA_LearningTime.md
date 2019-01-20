@@ -12,8 +12,11 @@
             * Notebooks/TrainingTime/Cleaning Data - Python Data Playbook
             * Notebooks/TrainingTime/Importing Data - Python Data Playbook
             * [MathJax](https://www.mathjax.org/) - symbol cheatsheets: [1](https://www.math.brown.edu/~jhs/ReferenceCards/TeXRefCard.v1.5.pdf) | [2](http://tug.ctan.org/info/undergradmath/undergradmath.pdf) | [3](http://web.ift.uib.no/Teori/KURS/WRK/TeX/symALL.html) - examples: [1](https://nbviewer.jupyter.org/github/ipython/ipython/blob/2.x/examples/Notebook/Display%20System.ipynb#LaTeX)
+                * Jupyter [motivating examples](https://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/Typesetting%20Equations.html)
+                * Introduction to Statistical Learning.ipynb
         * [Azure Notebooks](https://notebooks.azure.com/): see "Featured Projects"
         * Azure Functions: [blog](https://azure.microsoft.com/en-us/blog/taking-a-closer-look-at-python-support-for-azure-functions/)
+        * PyTorch on Windows: [msdn magazine](https://msdn.microsoft.com/en-us/magazine/mt848704.aspx)
 3. [Python](https://www.python.org/) language overview:
     * Python [documentation](https://docs.python.org/3/index.html) | [tutorial](https://docs.python.org/3/tutorial/index.html) | [PEP](https://www.python.org/dev/peps/)
         * basic operators: [link](https://www.tutorialspoint.com/python/python_basic_operators.htm)
@@ -26,6 +29,7 @@
     4. Seaborn: [site](https://seaborn.pydata.org/)
     5. Plotly: [site](https://plot.ly/python/)
         * cufflinks: [site](https://plot.ly/ipython-notebooks/cufflinks/)  
+    6. Scikit-learn: [site](https://scikit-learn.org/stable/index.html) | [cheatsheet](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
 5. Courses:  
     [__Pluralsight__](https://app.pluralsight.com/library/) (available through [msdn](https://msdn.microsoft.com/en-us/dn308572.aspx)):
     * Pluralsight: Python: The Big Picture: [course](https://app.pluralsight.com/library/courses/python-big-picture)
