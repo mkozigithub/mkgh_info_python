@@ -16,6 +16,7 @@
                 * Notebooks\TrainingTime\Introduction to Statistical Learning.ipynb
         * [Azure Notebooks](https://notebooks.azure.com/): see "Featured Projects"
         * Azure Functions: [blog](https://azure.microsoft.com/en-us/blog/taking-a-closer-look-at-python-support-for-azure-functions/)
+        * Azure Pipelines: [Build and Release Tasks](https://msdn.microsoft.com/magazine/mt848636)
         * PyTorch on Windows: [msdn magazine](https://msdn.microsoft.com/en-us/magazine/mt848704.aspx)
 3. [Python](https://www.python.org/) language overview:
     * Python [documentation](https://docs.python.org/3/index.html) | [tutorial](https://docs.python.org/3/tutorial/index.html) | [PEP](https://www.python.org/dev/peps/)
@@ -52,3 +53,4 @@
 6. Interesting features of python:
     1. Comporehensions: [tutorial](https://docs.python.org/3/tutorial/datastructures.html#list-comprehensions)
     2. Generators: [1](http://book.pythontips.com/en/latest/generators.html) | [2](https://docs.python.org/3/tutorial/classes.html#generators)
+    3. Concurrency: [blog](https://realpython.com/python-concurrency/)
