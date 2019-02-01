@@ -21,6 +21,9 @@
                     conda install nodejs=8.9.3
                     npm install -g ifavascript
                     ijsinstall
+
+                    npm init -y
+                    npm install rxjs
                     ```
         * [Azure Notebooks](https://notebooks.azure.com/): see "Featured Projects"
         * Azure Functions: [blog](https://azure.microsoft.com/en-us/blog/taking-a-closer-look-at-python-support-for-azure-functions/)
