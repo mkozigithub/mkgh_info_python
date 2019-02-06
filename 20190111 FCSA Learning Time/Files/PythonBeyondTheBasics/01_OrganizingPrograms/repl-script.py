@@ -62,19 +62,19 @@ import reader
 import reader.compressed
 import reader.compressed.gzipped
 import reader.compressed.bzipped
- r = reader.reader.Reader('test.bz2')
- r.read()
- r.close()
- r = reader.reader.Reader('test.gz')
+r = reader.reader.Reader('test.bz2')
+r.read()
+r.close()
+r = reader.reader.Reader('test.gz')
 
- import sys
- for mod in sys.modules.keys():
-   print
+import sys
+for mod in sys.modules.keys():
+  print
 
 from reader.compressed import *
 locals()
 for local in locals():
-  print local
+  print(local)
 # should show 'bz2_opener', 'gz_opener'
 
 # Namespace packages - PEP420: https://www.python.org/dev/peps/pep-0420/
