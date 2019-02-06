@@ -42,7 +42,10 @@
     5. Plotly: [site](https://plot.ly/python/)
         * cufflinks: [site](https://plot.ly/ipython-notebooks/cufflinks/)  
     6. Scikit-learn: [site](https://scikit-learn.org/stable/index.html) | [cheatsheet](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
-5. Courses:  
+5. Data Set Repositories:
+    * UCI: [site](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/learn/v4/t/lecture/5733574?start=0)
+    * Kaggle: [site](https://www.kaggle.com/datasets)
+6. Courses:  
     [__Pluralsight__](https://app.pluralsight.com/library/) (available through [msdn](https://msdn.microsoft.com/en-us/dn308572.aspx)):
     * Pluralsight: Python: The Big Picture: [course](https://app.pluralsight.com/library/courses/python-big-picture)
     * Pluralsight: Python: Getting Started: [course](https://app.pluralsight.com/library/courses/python-getting-started/table-of-contents)
