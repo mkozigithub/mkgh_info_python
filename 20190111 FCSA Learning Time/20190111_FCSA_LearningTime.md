@@ -38,7 +38,7 @@
             * AWS: [get started](https://aws.amazon.com/free/)
         * Nueral Networks:
             * Keras: [site](https://keras.io/)
-            * Tensorflow: [site](https://keras.io/) | [tutorials](https://www.tensorflow.org/tutorials)
+            * Tensorflow: [site](https://keras.io/) | [tutorials](https://www.tensorflow.org/tutorials) | [colab blog](https://medium.com/tensorflow/colab-an-easy-way-to-learn-and-use-tensorflow-d74d1686e309)
 3. [Python](https://www.python.org/) language overview:
     * Python [documentation](https://docs.python.org/3/index.html) | [tutorial](https://docs.python.org/3/tutorial/index.html) | [PEP](https://www.python.org/dev/peps/)
         * basic operators: [link](https://www.tutorialspoint.com/python/python_basic_operators.htm)
