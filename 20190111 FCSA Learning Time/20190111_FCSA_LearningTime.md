@@ -27,8 +27,10 @@
                     ```
             * Hosting:
                 * [Azure Notebooks](https://notebooks.azure.com/): see "Featured Projects"
-                * [Google Colabs](https://colab.research.google.com/)
+                * Google Colabs: [site](https://colab.research.google.com/) | [forms](https://colab.research.google.com/notebooks/forms.ipynb
+                )
                 * [Anaconda Cloud](https://anaconda.org/)
+            * Jupyter "Magics": [docs](https://nbviewer.jupyter.org/github/ipython/ipython/blob/1.x/examples/notebooks/Cell%20Magics.ipynb)
         * Azure Functions: [blog](https://azure.microsoft.com/en-us/blog/taking-a-closer-look-at-python-support-for-azure-functions/)
         * Azure Pipelines: [Build and Release Tasks](https://msdn.microsoft.com/magazine/mt848636)
         * PyTorch on Windows: [msdn magazine](https://msdn.microsoft.com/en-us/magazine/mt848704.aspx)
